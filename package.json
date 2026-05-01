@@ -1,0 +1,25 @@
+{
+  "name": "review-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L2342/cinelog-review-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L2342/cinelog-review-service/issues"
+  },
+  "homepage": "https://github.com/L2342/cinelog-review-service#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.20.0"
+  }
+}
